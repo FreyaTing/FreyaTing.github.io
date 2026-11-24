@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://freyating.github.io/sitemap.xml

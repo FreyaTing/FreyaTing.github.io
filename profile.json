@@ -1,0 +1,657 @@
+{
+  "name": {
+    "en": "Yue Ding",
+    "zh": "丁悦"
+  },
+  "degree": {
+    "en": "Ph.D.",
+    "zh": "博士"
+  },
+  "title": {
+    "en": "Assistant Research Fellow · Master’s Supervisor",
+    "zh": "助理研究员 · 硕士生导师"
+  },
+  "institution": {
+    "en": "Shanghai Mental Health Center, Shanghai Jiao Tong University School of Medicine",
+    "zh": "上海交通大学医学院附属精神卫生中心"
+  },
+  "unit": {
+    "en": "Neuroimaging Platform",
+    "zh": "神经影像平台"
+  },
+  "email": "yueding.bme@gmail.com",
+  "orcid": "https://orcid.org/0000-0003-3662-8265",
+  "scholar": "https://scholar.google.com.hk/citations?user=dxGB4PkAAAAJ&hl=zh-CN",
+  "bio": {
+    "zh": "丁悦，上海交通大学医学院附属精神卫生中心神经影像平台助理研究员、硕士生导师。博士毕业于清华大学医学院生物医学工程专业，曾赴约翰霍普金斯大学访学。研究聚焦无创物理干预的神经机制及其在精神障碍中的应用，结合脑机接口、神经调控、情感计算与音乐干预，探索面向精神健康的个体化干预方法。",
+    "en": "Yue Ding is an Assistant Research Fellow and master’s supervisor at the Neuroimaging Platform of Shanghai Mental Health Center, Shanghai Jiao Tong University School of Medicine. Yue received a Ph.D. in Biomedical Engineering from Tsinghua University and was a visiting scholar at Johns Hopkins University. Her research investigates the neural mechanisms of non-invasive physical interventions and their applications in mental disorders, bringing together brain–computer interfaces, neuromodulation, affective computing, and music-based interventions."
+  },
+  "themes": [
+    {
+      "en": "Music, rhythm & emotion",
+      "zh": "音乐、节律与情绪",
+      "description": {
+        "en": "Neural mechanisms of music perception, rhythmic entrainment, and emotion regulation.",
+        "zh": "探索音乐感知、节律同步与情绪调节的神经机制。"
+      }
+    },
+    {
+      "en": "Non-invasive neuromodulation",
+      "zh": "无创神经调控",
+      "description": {
+        "en": "Closed-loop physical and music-based interventions for mental health.",
+        "zh": "面向精神健康的闭环物理干预与音乐干预。"
+      }
+    },
+    {
+      "en": "Affective computing & brain–computer interfaces",
+      "zh": "情感计算与脑机接口",
+      "description": {
+        "en": "Multimodal neural and behavioral data for personalized assessment and intervention.",
+        "zh": "结合多模态神经与行为数据，开展个体化评估与干预研究。"
+      }
+    }
+  ],
+  "education": [
+    {
+      "years": "2010–2018",
+      "en": "Ph.D. in Biomedical Engineering, School of Medicine, Tsinghua University",
+      "zh": "清华大学医学院 · 生物医学工程博士"
+    },
+    {
+      "years": "2013–2014",
+      "en": "Visiting Scholar, Department of Biomedical Engineering, Johns Hopkins University",
+      "zh": "约翰霍普金斯大学生物医学工程系 · 访问学者"
+    },
+    {
+      "years": "2006–2010",
+      "en": "B.S. in Biomedical Engineering, Dalian University of Technology",
+      "zh": "大连理工大学 · 生物医学工程学士"
+    }
+  ],
+  "experience": [
+    {
+      "years": "2020–Present",
+      "en": "Assistant Research Fellow, Shanghai Mental Health Center, Shanghai Jiao Tong University School of Medicine",
+      "zh": "上海交通大学医学院附属精神卫生中心 · 助理研究员"
+    },
+    {
+      "years": "2018–2020",
+      "en": "Research Supervisor, Brain Science Group, AI Institute, iFLYTEK",
+      "zh": "科大讯飞人工智能研究院脑科学组 · 研究主管"
+    },
+    {
+      "years": "2016–2018",
+      "en": "Neuroscientist, Greater China, Neuromarketing Group, Nielsen",
+      "zh": "尼尔森消费者神经科学部 · 大中华区神经科学家"
+    }
+  ],
+  "service": [
+    {
+      "years": "2026–Present",
+      "en": "Applied Psychology Industry Expert, Department of Psychology, Tsinghua University",
+      "zh": "清华大学心理学系 · 应用心理学行业专家"
+    },
+    {
+      "years": "2025–Present",
+      "en": "Associate Editor / Editorial Board Member, IEEE Transactions on Affective Computing",
+      "zh": "IEEE Transactions on Affective Computing · 编委（Associate Editor）"
+    },
+    {
+      "years": "2025–Present",
+      "en": "Qingbaihui Young Expert, Brain–Computer Interface Industry Alliance",
+      "zh": "脑机接口产业联盟 · 青百荟青年专家"
+    },
+    {
+      "years": "2024–Present",
+      "en": "Editorial Board Member, Scientific Reports",
+      "zh": "Scientific Reports · 编委"
+    },
+    {
+      "years": "2024–Present",
+      "en": "Member, Music Psychology Committee, Chinese Psychological Society",
+      "zh": "中国心理学会音乐心理专业委员会 · 委员"
+    },
+    {
+      "years": "2023–Present",
+      "en": "Standing Committee Member, Art Psychotherapy Committee, China Medical and Health Development Foundation",
+      "zh": "中国医药卫生事业发展基金会艺术心理治疗专家委员会 · 常务委员"
+    },
+    {
+      "years": "2023–Present",
+      "en": "Youth Committee Member, Psychological and Mental Health Education Committee, China Medicine Education Association",
+      "zh": "中国医药教育协会心理与精神健康教育委员会 · 青年委员"
+    },
+    {
+      "years": "2022–Present",
+      "en": "Review Editor, Frontiers in Psychiatry",
+      "zh": "Frontiers in Psychiatry · 评审编辑"
+    }
+  ],
+  "teaching": [
+    {
+      "en": "Principles and Practice of Brain Functional Imaging",
+      "zh": "脑功能成像原理与实践"
+    },
+    {
+      "en": "Psychology of Emotion",
+      "zh": "情绪心理学"
+    }
+  ],
+  "publications": [
+    {
+      "id": 1,
+      "status": "published",
+      "authors": "Chengrong Hua, Wenjing Liu, Zhen Liu, Changminghao Ma, Zhishan Hu, Yue Ding, Kelun Yaoma, Jiayi Song, Yang Sun, Fang Zhang, Yue Liu, Yi Huang, Yingying Tang, Xiaochen Zhang, Wenhong Cheng",
+      "title": "Pre-treatment brain morphology predicts symptom-specific outcomes in paediatric emotional disorders",
+      "year": 2026,
+      "venue": "Asian Journal of Psychiatry 116 (2026): 104797",
+      "doi": "10.1016/j.ajp.2025.104797",
+      "url": "https://doi.org/10.1016/j.ajp.2025.104797",
+      "citation": "Chengrong Hua, Wenjing Liu, Zhen Liu, Changminghao Ma, Zhishan Hu, Yue Ding, Kelun Yaoma, Jiayi Song, Yang Sun, Fang Zhang, Yue Liu, Yi Huang, Yingying Tang, Xiaochen Zhang, Wenhong Cheng. Pre-treatment brain morphology predicts symptom-specific outcomes in paediatric emotional disorders. Asian Journal of Psychiatry 116 (2026): 104797. DOI: 10.1016/j.ajp.2025.104797."
+    },
+    {
+      "id": 2,
+      "status": "published",
+      "authors": "Fang Zhang, Wenjing Liu, Hongmei Yang, Yang Sun, Xiaoxia Lei, Yue Ding, Xiaochen Zhang, Zhishan Hu, Shuaishuai Hu, Zhen Wang, Wenhong Cheng",
+      "title": "Reducing anxiety and depression in Chinese adolescents through group behavioral activation: a pilot study with school-based implementation",
+      "year": 2026,
+      "venue": "Child and Adolescent Psychiatry and Mental Health 20 (2026): 15",
+      "doi": "10.1186/s13034-025-01012-1",
+      "url": "https://doi.org/10.1186/s13034-025-01012-1",
+      "citation": "Fang Zhang, Wenjing Liu, Hongmei Yang, Yang Sun, Xiaoxia Lei, Yue Ding, Xiaochen Zhang, Zhishan Hu, Shuaishuai Hu, Zhen Wang, Wenhong Cheng. Reducing anxiety and depression in Chinese adolescents through group behavioral activation: a pilot study with school-based implementation. Child and Adolescent Psychiatry and Mental Health 20 (2026): 15. DOI: 10.1186/s13034-025-01012-1."
+    },
+    {
+      "id": 3,
+      "status": "published",
+      "authors": "Yue Ding#*, Bo Sun#, Yingying Tang, Dan Zhang*",
+      "title": "Unveiling the neural signature of group cohesion in music co-audition",
+      "year": 2025,
+      "venue": "Annals of the New York Academy of Sciences 1554(1) (2025): 203–215",
+      "doi": "10.1111/nyas.70105",
+      "url": "https://doi.org/10.1111/nyas.70105",
+      "citation": "Yue Ding#*, Bo Sun#, Yingying Tang, Dan Zhang*. Unveiling the neural signature of group cohesion in music co-audition. Annals of the New York Academy of Sciences 1554(1) (2025): 203–215. DOI: 10.1111/nyas.70105."
+    },
+    {
+      "id": 4,
+      "status": "published",
+      "authors": "Jiaxin Ding#, Xiaochen Zhang#, Jingjing Liu, Zhishan Hu, Zhi Yang*, Yingying Tang*, Yue Ding*",
+      "title": "Entrainment of rhythmic tonal sequences on neural oscillations and the impact on subjective emotion",
+      "year": 2025,
+      "venue": "Scientific Reports 15 (2025): 17462",
+      "doi": "10.1038/s41598-025-98548-1",
+      "url": "https://doi.org/10.1038/s41598-025-98548-1",
+      "citation": "Jiaxin Ding#, Xiaochen Zhang#, Jingjing Liu, Zhishan Hu, Zhi Yang*, Yingying Tang*, Yue Ding*. Entrainment of rhythmic tonal sequences on neural oscillations and the impact on subjective emotion. Scientific Reports 15 (2025): 17462. DOI: 10.1038/s41598-025-98548-1."
+    },
+    {
+      "id": 5,
+      "status": "published",
+      "authors": "Cong Wang, Zhi Li, Xiao Zhu, Wanbing Sun, Yue Ding, Wenjia Duan, Difei Wang, Yiqing Jiang, Ming Chen, Yuncan Chen, Jiayi Hu, Zheping Cai, Jing Zhao, Junfeng Wang, Zhen Fan, Faming Zheng, Xingyu Zhou, Fang Xie, Jianping Zhang, Yihui Guan, Kui Yan, Zuhai Lei, Qinyue Wang, Luting Wang, Xiao Xiao, Hairong Zheng, Liang Chen, Cong Li, Ying Mao",
+      "title": "Ultrabright ratiometric Raman-guided epilepsy surgery by intraoperatively visualizing proinflammatory microglia",
+      "year": 2025,
+      "venue": "Cell Reports Medicine 6(6) (2025): 102155",
+      "doi": "10.1016/j.xcrm.2025.102155",
+      "url": "https://doi.org/10.1016/j.xcrm.2025.102155",
+      "citation": "Cong Wang, Zhi Li, Xiao Zhu, Wanbing Sun, Yue Ding, Wenjia Duan, Difei Wang, Yiqing Jiang, Ming Chen, Yuncan Chen, Jiayi Hu, Zheping Cai, Jing Zhao, Junfeng Wang, Zhen Fan, Faming Zheng, Xingyu Zhou, Fang Xie, Jianping Zhang, Yihui Guan, Kui Yan, Zuhai Lei, Qinyue Wang, Luting Wang, Xiao Xiao, Hairong Zheng, Liang Chen, Cong Li, Ying Mao. Ultrabright ratiometric Raman-guided epilepsy surgery by intraoperatively visualizing proinflammatory microglia. Cell Reports Medicine 6(6) (2025): 102155. DOI: 10.1016/j.xcrm.2025.102155."
+    },
+    {
+      "id": 6,
+      "status": "published",
+      "authors": "Yinzhi Kang, Qingfeng Li, Wenjing Liu, Yang Hu, Zhen Liu, Shuqi Xie, Changminghao Ma, Lei Zhang, Xiaochen Zhang, Zhishan Hu, Yue Ding, Wenhong Cheng, Zhi Yang",
+      "title": "Risk factor patterns define social anxiety subtypes in adolescents with brain and clinical feature differences",
+      "year": 2025,
+      "venue": "European Child & Adolescent Psychiatry 34(3) (2025): 1135–1148",
+      "doi": "10.1007/s00787-024-02548-x",
+      "url": "https://doi.org/10.1007/s00787-024-02548-x",
+      "citation": "Yinzhi Kang, Qingfeng Li, Wenjing Liu, Yang Hu, Zhen Liu, Shuqi Xie, Changminghao Ma, Lei Zhang, Xiaochen Zhang, Zhishan Hu, Yue Ding, Wenhong Cheng, Zhi Yang. Risk factor patterns define social anxiety subtypes in adolescents with brain and clinical feature differences. European Child & Adolescent Psychiatry 34(3) (2025): 1135–1148. DOI: 10.1007/s00787-024-02548-x."
+    },
+    {
+      "id": 7,
+      "status": "published",
+      "authors": "Jingjing Liu, Lu Wang, Lei Zhang, Yue Ding, Xiaochen Zhang, Zhishan Hu, Xudong Zhao",
+      "title": "Abnormal amygdala volume moderates parenting and anxiety symptoms in children and adolescents with anxiety disorder",
+      "year": 2024,
+      "venue": "Journal of Psychiatric Research 175 (2024): 316–322",
+      "doi": null,
+      "url": null,
+      "citation": "Jingjing Liu, Lu Wang, Lei Zhang, Yue Ding, Xiaochen Zhang, Zhishan Hu, Xudong Zhao. Abnormal amygdala volume moderates parenting and anxiety symptoms in children and adolescents with anxiety disorder. Journal of Psychiatric Research 175 (2024): 316–322."
+    },
+    {
+      "id": 8,
+      "status": "published",
+      "authors": "Jingjing Liu#, Shuqi Xie#, Yang Hu, Yue Ding, Xiaochen Zhang, Wenjing Liu, Lei Zhang, Changminghao Ma, Yinzhi Kang, Shuyu Jin, Yufeng Xia, Zhen Liu, Wenhong Cheng*, Zhi Yang*",
+      "title": "Age-dependent alterations in the coordinated development of subcortical regions in adolescents with social anxiety disorder",
+      "year": 2024,
+      "venue": "European Child & Adolescent Psychiatry 33(1) (2024): 51–64",
+      "doi": null,
+      "url": null,
+      "citation": "Jingjing Liu#, Shuqi Xie#, Yang Hu, Yue Ding, Xiaochen Zhang, Wenjing Liu, Lei Zhang, Changminghao Ma, Yinzhi Kang, Shuyu Jin, Yufeng Xia, Zhen Liu, Wenhong Cheng*, Zhi Yang*. Age-dependent alterations in the coordinated development of subcortical regions in adolescents with social anxiety disorder. European Child & Adolescent Psychiatry 33(1) (2024): 51–64."
+    },
+    {
+      "id": 9,
+      "status": "published",
+      "authors": "Yue Ding#*, Jiaqi Jing#, Qihui Guo, Jiajia Zhou, Xinyao Cheng, Xiaoya Chen, Lihui Wang, Yingying Tang, Qing Fan*",
+      "title": "Uncovering potential distinctive acoustic features of healing music",
+      "year": 2023,
+      "venue": "General Psychiatry 36(6) (2023): e101145",
+      "doi": "10.1136/gpsych-2023-101145",
+      "url": "https://doi.org/10.1136/gpsych-2023-101145",
+      "citation": "Yue Ding#*, Jiaqi Jing#, Qihui Guo, Jiajia Zhou, Xinyao Cheng, Xiaoya Chen, Lihui Wang, Yingying Tang, Qing Fan*. Uncovering potential distinctive acoustic features of healing music. General Psychiatry 36(6) (2023): e101145. DOI: 10.1136/gpsych-2023-101145."
+    },
+    {
+      "id": 10,
+      "status": "published",
+      "authors": "Wenjing Liu#, Zhishan Hu#, Zhen Liu, Fang Zhang, Yue Ding, Yin Shui, Zhi Yang, Wenhong Cheng*",
+      "title": "Age- and sex-dependent increase in self-harm among adolescents with mental health problems in East China during COVID-19-related society-wide isolation",
+      "year": 2023,
+      "venue": "Frontiers in Public Health 11 (2023): 1129123",
+      "doi": null,
+      "url": null,
+      "citation": "Wenjing Liu#, Zhishan Hu#, Zhen Liu, Fang Zhang, Yue Ding, Yin Shui, Zhi Yang, Wenhong Cheng*. Age- and sex-dependent increase in self-harm among adolescents with mental health problems in East China during COVID-19-related society-wide isolation. Frontiers in Public Health 11 (2023): 1129123."
+    },
+    {
+      "id": 11,
+      "status": "published",
+      "authors": "Shuyu Jin, Wenjing Liu, Yang Hu, Zhen Liu, Yufeng Xia, Xiaochen Zhang, Yue Ding, Lei Zhang, Changminghao Ma, Yinzhi Kang, Zhishan Hu*, Wenhong Cheng*, Zhi Yang*",
+      "title": "Aberrant functional connectivity of the bed nucleus of the stria terminalis and its age dependence in children and adolescents with social anxiety disorder",
+      "year": 2023,
+      "venue": "Asian Journal of Psychiatry 82 (2023): 103498",
+      "doi": null,
+      "url": null,
+      "citation": "Shuyu Jin, Wenjing Liu, Yang Hu, Zhen Liu, Yufeng Xia, Xiaochen Zhang, Yue Ding, Lei Zhang, Changminghao Ma, Yinzhi Kang, Zhishan Hu*, Wenhong Cheng*, Zhi Yang*. Aberrant functional connectivity of the bed nucleus of the stria terminalis and its age dependence in children and adolescents with social anxiety disorder. Asian Journal of Psychiatry 82 (2023): 103498."
+    },
+    {
+      "id": 12,
+      "status": "published",
+      "authors": "Shuqi Xie#, Jingjing Liu#, Yang Hu, Wenjing Liu, Changminghao Ma, Shuyu Jin, Lei Zhang, Yinzhi Kang, Yue Ding, Xiaochen Zhang, Zhishan Hu, Wenhong Cheng*, Zhi Yang*",
+      "title": "A normative model of brain responses to social scenarios reflects the maturity of children and adolescents’ social-emotional abilities",
+      "year": 2023,
+      "venue": "Social Cognitive and Affective Neuroscience 18(1) (2023): nsad062",
+      "doi": null,
+      "url": null,
+      "citation": "Shuqi Xie#, Jingjing Liu#, Yang Hu, Wenjing Liu, Changminghao Ma, Shuyu Jin, Lei Zhang, Yinzhi Kang, Yue Ding, Xiaochen Zhang, Zhishan Hu, Wenhong Cheng*, Zhi Yang*. A normative model of brain responses to social scenarios reflects the maturity of children and adolescents’ social-emotional abilities. Social Cognitive and Affective Neuroscience 18(1) (2023): nsad062."
+    },
+    {
+      "id": 13,
+      "status": "published",
+      "authors": "Yue Ding, Yinxue Chu, Meng Liu, Zhenhua Ling, Shijin Wang, Xin Li*, Yunxia Li*",
+      "title": "Fully automated discrimination of Alzheimer’s disease using resting-state electroencephalography signals",
+      "year": 2022,
+      "venue": "Quantitative Imaging in Medicine and Surgery 12(2) (2022): 1063–1078",
+      "doi": null,
+      "url": null,
+      "citation": "Yue Ding, Yinxue Chu, Meng Liu, Zhenhua Ling, Shijin Wang, Xin Li*, Yunxia Li*. Fully automated discrimination of Alzheimer’s disease using resting-state electroencephalography signals. Quantitative Imaging in Medicine and Surgery 12(2) (2022): 1063–1078."
+    },
+    {
+      "id": 14,
+      "status": "published",
+      "authors": "Yue Ding#, Jingjing Liu#, Xiaochen Zhang, Zhi Yang*",
+      "title": "Dynamic tracking of state anxiety via multi-modal data and machine learning",
+      "year": 2022,
+      "venue": "Frontiers in Psychiatry 13 (2022): 757961",
+      "doi": "10.3389/fpsyt.2022.757961",
+      "url": "https://doi.org/10.3389/fpsyt.2022.757961",
+      "citation": "Yue Ding#, Jingjing Liu#, Xiaochen Zhang, Zhi Yang*. Dynamic tracking of state anxiety via multi-modal data and machine learning. Frontiers in Psychiatry 13 (2022): 757961. DOI: 10.3389/fpsyt.2022.757961."
+    },
+    {
+      "id": 15,
+      "status": "published",
+      "authors": "Qinjian Zhang, Baobin Li, Shuyu Jin, Wenjing Liu, Jingjing Liu, Shuqi Xie, Lei Zhang, Yinzhi Kang, Yue Ding, Xiaochen Zhang, Wenhong Cheng, Zhi Yang*",
+      "title": "Comparing the effectiveness of brain structural imaging, resting-state fMRI, and naturalistic fMRI in recognizing social anxiety disorder in children and adolescents",
+      "year": 2022,
+      "venue": "Psychiatry Research: Neuroimaging 323 (2022): 111485",
+      "doi": null,
+      "url": null,
+      "citation": "Qinjian Zhang, Baobin Li, Shuyu Jin, Wenjing Liu, Jingjing Liu, Shuqi Xie, Lei Zhang, Yinzhi Kang, Yue Ding, Xiaochen Zhang, Wenhong Cheng, Zhi Yang*. Comparing the effectiveness of brain structural imaging, resting-state fMRI, and naturalistic fMRI in recognizing social anxiety disorder in children and adolescents. Psychiatry Research: Neuroimaging 323 (2022): 111485."
+    },
+    {
+      "id": 16,
+      "status": "published",
+      "authors": "Yue Ding#, Xin Hu#, Zhenyi Xia, Yong-Jin Liu, Dan Zhang*",
+      "title": "Inter-brain EEG feature extraction and analysis for continuous implicit emotion tagging during video watching",
+      "year": 2021,
+      "venue": "IEEE Transactions on Affective Computing 12(1) (2021): 92–102",
+      "doi": "10.1109/TAFFC.2018.2849758",
+      "url": "https://doi.org/10.1109/TAFFC.2018.2849758",
+      "citation": "Yue Ding#, Xin Hu#, Zhenyi Xia, Yong-Jin Liu, Dan Zhang*. Inter-brain EEG feature extraction and analysis for continuous implicit emotion tagging during video watching. IEEE Transactions on Affective Computing 12(1) (2021): 92–102. DOI: 10.1109/TAFFC.2018.2849758."
+    },
+    {
+      "id": 17,
+      "status": "published",
+      "authors": "Jingjing Liu, Zhi Yang, Yue Ding*",
+      "title": "Applications of frequency-tuned non-invasive neural modulation in neuropsychiatric diseases",
+      "year": 2021,
+      "venue": "Beijing Biomedical Engineering 40(6) (2021): 622–628, 634",
+      "doi": null,
+      "url": null,
+      "citation": "Jingjing Liu, Zhi Yang, Yue Ding*. Applications of frequency-tuned non-invasive neural modulation in neuropsychiatric diseases. Beijing Biomedical Engineering 40(6) (2021): 622–628, 634."
+    },
+    {
+      "id": 18,
+      "status": "published",
+      "authors": "Yang Zhang, Yue Ding, Juan Huang, Wenjing Zhou, Zhipei Ling, Bo Hong, Xiaoqin Wang*",
+      "title": "Hierarchical cortical networks of “voice patches” for processing voices in the human brain",
+      "year": 2021,
+      "venue": "Proceedings of the National Academy of Sciences 118(52) (2021): e2113887118",
+      "doi": null,
+      "url": null,
+      "citation": "Yang Zhang, Yue Ding, Juan Huang, Wenjing Zhou, Zhipei Ling, Bo Hong, Xiaoqin Wang*. Hierarchical cortical networks of “voice patches” for processing voices in the human brain. Proceedings of the National Academy of Sciences 118(52) (2021): e2113887118."
+    },
+    {
+      "id": 19,
+      "status": "published",
+      "authors": "Ning Guo, Xiaopeng Si#, Yang Zhang#, Yue Ding#, Wenjing Zhou, Dan Zhang, Bo Hong*",
+      "title": "Speech frequency-following response in human auditory cortex is more than a simple tracking",
+      "year": 2021,
+      "venue": "NeuroImage 226 (2021): 117545",
+      "doi": null,
+      "url": null,
+      "citation": "Ning Guo, Xiaopeng Si#, Yang Zhang#, Yue Ding#, Wenjing Zhou, Dan Zhang, Bo Hong*. Speech frequency-following response in human auditory cortex is more than a simple tracking. NeuroImage 226 (2021): 117545."
+    },
+    {
+      "id": 20,
+      "status": "published",
+      "authors": "Qingfeng Li#, Lijuan Jiang#, Kaini Qiao, Yang Hu, Bing Chen, Xiaochen Zhang, Yue Ding, Zhi Yang*, Chunbo Li",
+      "title": "INCloud: integrated neuroimaging cloud for data collection, management, analysis and clinical translations",
+      "year": 2021,
+      "venue": "General Psychiatry 34(6) (2021): e100651",
+      "doi": "10.1136/gpsych-2021-100651",
+      "url": "https://doi.org/10.1136/gpsych-2021-100651",
+      "citation": "Qingfeng Li#, Lijuan Jiang#, Kaini Qiao, Yang Hu, Bing Chen, Xiaochen Zhang, Yue Ding, Zhi Yang*, Chunbo Li. INCloud: integrated neuroimaging cloud for data collection, management, analysis and clinical translations. General Psychiatry 34(6) (2021): e100651. DOI: 10.1136/gpsych-2021-100651."
+    },
+    {
+      "id": 21,
+      "status": "published",
+      "authors": "Yue Ding, Yang Zhang, Wenjing Zhou, Zhipei Ling, Juan Huang, Bo Hong*, Xiaoqin Wang*",
+      "title": "Neural correlates of music listening and recall in the human brain",
+      "year": 2019,
+      "venue": "Journal of Neuroscience 39(41) (2019): 8112–8123",
+      "doi": "10.1523/JNEUROSCI.1468-18.2019",
+      "url": "https://doi.org/10.1523/JNEUROSCI.1468-18.2019",
+      "citation": "Yue Ding, Yang Zhang, Wenjing Zhou, Zhipei Ling, Juan Huang, Bo Hong*, Xiaoqin Wang*. Neural correlates of music listening and recall in the human brain. Journal of Neuroscience 39(41) (2019): 8112–8123. DOI: 10.1523/JNEUROSCI.1468-18.2019."
+    },
+    {
+      "id": 22,
+      "status": "published",
+      "authors": "Yue Ding, Xin Hu, Jiawei Li, Jingbo Ye, Fei Wang, Dan Zhang*",
+      "title": "What makes a champion: the behavioral and neural correlates of expertise in multiplayer online battle arena games",
+      "year": 2018,
+      "venue": "International Journal of Human–Computer Interaction 34(8) (2018): 682–694",
+      "doi": null,
+      "url": null,
+      "citation": "Yue Ding, Xin Hu, Jiawei Li, Jingbo Ye, Fei Wang, Dan Zhang*. What makes a champion: the behavioral and neural correlates of expertise in multiplayer online battle arena games. International Journal of Human–Computer Interaction 34(8) (2018): 682–694."
+    },
+    {
+      "id": 23,
+      "status": "published",
+      "authors": "Yue Ding, Kathleen Gray, Alexander Forrence, Xiaoqin Wang*, Juan Huang*",
+      "title": "A behavioral study on tonal working memory in musicians and non-musicians",
+      "year": 2018,
+      "venue": "PLOS ONE 13(8) (2018): e0201765",
+      "doi": null,
+      "url": null,
+      "citation": "Yue Ding, Kathleen Gray, Alexander Forrence, Xiaoqin Wang*, Juan Huang*. A behavioral study on tonal working memory in musicians and non-musicians. PLOS ONE 13(8) (2018): e0201765."
+    },
+    {
+      "id": 24,
+      "status": "published",
+      "authors": "Lei Guo#, Yue Ding#, Tianzhen Chen#, Jiajun Xu#, Hang Su#, Shiyan Qu, Ruitong Yan, Hong Gan, Xiandong Lin, Wei Shao, Dan Luo, Yingying Tang, Valerie Voon, Gang Wang*, Haifeng Jiang*, Min Zhao*",
+      "title": "Closed-loop transcranial alternating current stimulation (tACS) reduces cue reactivity and improves inhibitory control in methamphetamine use disorder with frequency and timing specificity",
+      "year": 2026,
+      "venue": "Molecular Psychiatry (2026), published online 1 September 2026",
+      "doi": "10.1038/s41380-026-03846-3",
+      "url": "https://doi.org/10.1038/s41380-026-03846-3",
+      "citation": "Lei Guo#, Yue Ding#, Tianzhen Chen#, Jiajun Xu#, Hang Su#, Shiyan Qu, Ruitong Yan, Hong Gan, Xiandong Lin, Wei Shao, Dan Luo, Yingying Tang, Valerie Voon, Gang Wang*, Haifeng Jiang*, Min Zhao*. Closed-loop transcranial alternating current stimulation (tACS) reduces cue reactivity and improves inhibitory control in methamphetamine use disorder with frequency and timing specificity. Molecular Psychiatry (2026), published online 1 September 2026. DOI: 10.1038/s41380-026-03846-3."
+    },
+    {
+      "id": 25,
+      "status": "published",
+      "authors": "Yue Ding#, Xingxing Li#, Junlin Liu#, Guolin Jin#, Weiwen Tian, Tifei Yuan*, Wei Wu*, Dongsheng Zhou*",
+      "title": "Neurophysiological subtyping of schizophrenia reveals a reproducible phenotype with temporoparietal circuit disruptions",
+      "year": 2026,
+      "venue": "General Psychiatry 39(5) (2026): e70047",
+      "doi": "10.1002/gps3.70047",
+      "url": "https://doi.org/10.1002/gps3.70047",
+      "citation": "Yue Ding#, Xingxing Li#, Junlin Liu#, Guolin Jin#, Weiwen Tian, Tifei Yuan*, Wei Wu*, Dongsheng Zhou*. Neurophysiological subtyping of schizophrenia reveals a reproducible phenotype with temporoparietal circuit disruptions. General Psychiatry 39(5) (2026): e70047. DOI: 10.1002/gps3.70047."
+    },
+    {
+      "id": 26,
+      "status": "conference",
+      "authors": "Feiyang Xu, Yue Ding, Zhenhua Ling, Xin Li, Yunxia Li, Shijin Wang",
+      "title": "DCDT: a digital clock drawing test system for cognitive impairment screening",
+      "year": 2020,
+      "venue": "2020 IEEE 36th International Conference on Data Engineering (ICDE) 2020: 1762–1765",
+      "doi": "10.1109/ICDE48307.2020.00164",
+      "url": "https://doi.org/10.1109/ICDE48307.2020.00164",
+      "citation": "Feiyang Xu, Yue Ding, Zhenhua Ling, Xin Li, Yunxia Li, Shijin Wang. DCDT: a digital clock drawing test system for cognitive impairment screening. 2020 IEEE 36th International Conference on Data Engineering (ICDE) 2020: 1762–1765. DOI: 10.1109/ICDE48307.2020.00164."
+    },
+    {
+      "id": 27,
+      "status": "preprint",
+      "authors": "Yue Ding#*, Wenwen Fu#, Yingying Tang, Dan Zhang*",
+      "title": "State-personalized mood-matched-to-shifted versus direct-uplifting music for occupational stress, anxiety, and depressive symptoms: a web-based randomized trial",
+      "year": 2026,
+      "venue": "medRxiv (2026)",
+      "doi": "10.64898/2026.08.05.26359641",
+      "url": "https://doi.org/10.64898/2026.08.05.26359641",
+      "citation": "Yue Ding#*, Wenwen Fu#, Yingying Tang, Dan Zhang*. State-personalized mood-matched-to-shifted versus direct-uplifting music for occupational stress, anxiety, and depressive symptoms: a web-based randomized trial. medRxiv (2026). DOI: 10.64898/2026.08.05.26359641."
+    },
+    {
+      "id": 28,
+      "status": "preprint",
+      "authors": "Yue Ding#*, Jiameng Liu#, Yifan Xu#, Li Ji, Yubo Gao, Zheng Liang, Yingying Tang, Juan Huang, Xiaoqin Wang, Dan Zhang*",
+      "title": "The live concert of brains: performer-audience neural coupling links ensemble coordination to shared audience integration",
+      "year": 2026,
+      "venue": "bioRxiv (2026)",
+      "doi": "10.64898/2026.07.21.739936",
+      "url": "https://doi.org/10.64898/2026.07.21.739936",
+      "citation": "Yue Ding#*, Jiameng Liu#, Yifan Xu#, Li Ji, Yubo Gao, Zheng Liang, Yingying Tang, Juan Huang, Xiaoqin Wang, Dan Zhang*. The live concert of brains: performer-audience neural coupling links ensemble coordination to shared audience integration. bioRxiv (2026). DOI: 10.64898/2026.07.21.739936."
+    },
+    {
+      "id": 29,
+      "status": "preprint",
+      "authors": "Jiahao Mei#, Shimeng Li#, Xuenan Xu, Leyuan Jin, Yixuan Yuan, Zeyu Xie, Zihao Zheng, Ye Tao, Yue Ding*, Mengyue Wu*",
+      "title": "LARA-Gen: enabling continuous emotion control for music generation models via latent affective representation alignment",
+      "year": 2025,
+      "venue": "arXiv:2510.05875 (2025; v3 revised 21 October 2026; submitted to ICASSP 2027)",
+      "doi": "10.48550/arXiv.2510.05875",
+      "url": "https://doi.org/10.48550/arXiv.2510.05875",
+      "citation": "Jiahao Mei#, Shimeng Li#, Xuenan Xu, Leyuan Jin, Yixuan Yuan, Zeyu Xie, Zihao Zheng, Ye Tao, Yue Ding*, Mengyue Wu*. LARA-Gen: enabling continuous emotion control for music generation models via latent affective representation alignment. arXiv:2510.05875 (2025; v3 revised 21 October 2026; submitted to ICASSP 2027). DOI: 10.48550/arXiv.2510.05875."
+    }
+  ],
+  "grants": [
+    {
+      "status": "ongoing",
+      "title": {
+        "en": "Key technologies for closed-loop music intervention as an adjunctive treatment for affective disorders",
+        "zh": "情感障碍辅助治疗的闭环音乐干预关键技术"
+      },
+      "description": {
+        "en": "Key technologies for closed-loop music intervention as an adjunctive treatment for affective disorders — Shanghai Municipal Health Commission, Program for Research and Translation of New Medical Technologies, Grant 2024ZZ2066; Jan 2025–Dec 2027; Principal Investigator.",
+        "zh": "情感障碍辅助治疗的闭环音乐干预关键技术 — 上海市卫生健康委员会，转化种子项目，2024ZZ2066；2025 年 1 月–2027 年 12 月；主持。"
+      },
+      "role": {
+        "en": "Principal Investigator",
+        "zh": "主持"
+      }
+    },
+    {
+      "status": "ongoing",
+      "title": {
+        "en": "Rhythm-based interactive training in virtual reality for reducing anxiety via interoceptive regulation",
+        "zh": "基于虚拟现实的节律交互训练通过内感受调节改善焦虑"
+      },
+      "description": {
+        "en": "Rhythm-based interactive training in virtual reality for reducing anxiety via interoceptive regulation — Shanghai Jiao Tong University Medical-Engineering Cross-Research Fund, Grant YG2025QNB13; Jan 2025–Dec 2027; Principal Investigator.",
+        "zh": "基于虚拟现实的节律交互训练通过内感受调节改善焦虑 — 上海交通大学医工交叉研究基金，YG2025QNB13；2025 年 1 月–2027 年 12 月；主持。"
+      },
+      "role": {
+        "en": "Principal Investigator",
+        "zh": "主持"
+      }
+    },
+    {
+      "status": "ongoing",
+      "title": {
+        "en": "Characteristics and mechanisms of neuronal oscillations in depression",
+        "zh": "抑郁症的神经振荡特征及作用机制研究"
+      },
+      "description": {
+        "en": "Characteristics and mechanisms of neuronal oscillations in depression — National Natural Science Foundation of China, Major Research Plan, Grant T2394535; Jan 2024–Dec 2028; Project Team Member.",
+        "zh": "抑郁症的神经振荡特征及作用机制研究 — 国家自然科学基金委员会重大研究计划，T2394535；2024 年 1 月–2028 年 12 月；参与。"
+      },
+      "role": {
+        "en": "Project Team Member",
+        "zh": "参与"
+      }
+    },
+    {
+      "status": "completed",
+      "title": {
+        "en": "Controllable music generation model based on multi-source heterogeneous inputs for individualized diagnosis and treatment",
+        "zh": "基于多源异构输入的个体化诊疗可控音乐生成模型"
+      },
+      "description": {
+        "en": "Controllable music generation model based on multi-source heterogeneous inputs for individualized diagnosis and treatment — Shanghai Municipal Education Commission, Artificial Intelligence Program, Grant 2024AIYB012; Dec 2024–Dec 2025; Principal Investigator.",
+        "zh": "基于多源异构输入的个体化诊疗可控音乐生成模型 — 上海市教育委员会人工智能计划，2024AIYB012；2024 年 12 月–2025 年 12 月；主持。"
+      },
+      "role": {
+        "en": "Principal Investigator",
+        "zh": "主持"
+      }
+    },
+    {
+      "status": "completed",
+      "title": {
+        "en": "Personalized optimization of anxiety intervention via auditory-rhythm modulation of neural oscillations",
+        "zh": "基于听觉节律调制神经振荡的焦虑个性化干预优化模型"
+      },
+      "description": {
+        "en": "Personalized optimization of anxiety intervention via auditory-rhythm modulation of neural oscillations — National Natural Science Foundation of China, Young Scientists Fund, Grant 62101324; Jan 2022–Dec 2024; Principal Investigator.",
+        "zh": "基于听觉节律调制神经振荡的焦虑个性化干预优化模型 — 国家自然科学基金青年科学基金项目，62101324；2022 年 1 月–2024 年 12 月；主持。"
+      },
+      "role": {
+        "en": "Principal Investigator",
+        "zh": "主持"
+      }
+    },
+    {
+      "status": "completed",
+      "title": {
+        "en": "Neural mechanisms and parameter optimization of auditory-rhythm regulation in children and adolescents with anxiety disorders",
+        "zh": "儿童青少年焦虑障碍听觉节律调控的神经机理研究及参数优化"
+      },
+      "description": {
+        "en": "Neural mechanisms and parameter optimization of auditory-rhythm regulation in children and adolescents with anxiety disorders — Science and Technology Commission of Shanghai Municipality, Shanghai Sailing Program, Grant 20YF1442000; Jul 2020–Jun 2023; Principal Investigator.",
+        "zh": "儿童青少年焦虑障碍听觉节律调控的神经机理研究及参数优化 — 上海市科学技术委员会上海市“科技创新行动计划”扬帆计划，20YF1442000；2020 年 7 月–2023 年 6 月；主持。"
+      },
+      "role": {
+        "en": "Principal Investigator",
+        "zh": "主持"
+      }
+    },
+    {
+      "status": "completed",
+      "title": {
+        "en": "Neural mechanisms of music-based physical therapy for anxiety disorders in children and adolescents",
+        "zh": "音乐物理治疗儿童青少年焦虑症的神经机制研究"
+      },
+      "description": {
+        "en": "Neural mechanisms of music-based physical therapy for anxiety disorders in children and adolescents — Shanghai Mental Health Center, Qihang Program, Grant 2020-QH-01; Jul 2020–Jun 2023; Principal Investigator.",
+        "zh": "音乐物理治疗儿童青少年焦虑症的神经机制研究 — 上海市精神卫生中心启航人才项目，2020-QH-01；2020 年 7 月–2023 年 6 月；主持。"
+      },
+      "role": {
+        "en": "Principal Investigator",
+        "zh": "主持"
+      }
+    },
+    {
+      "status": "completed",
+      "title": {
+        "en": "Taste perception, anxiety, and neural mechanisms in adolescents",
+        "zh": "青少年味知觉与焦虑水平的关系和脑机制研究"
+      },
+      "description": {
+        "en": "Taste perception, anxiety, and neural mechanisms in adolescents — Science and Technology Commission of Shanghai Municipality, Scientific and Technological Innovation Action Plan, Grant 20ZR1472800; Jul 2020–Jun 2023; Project Team Member.",
+        "zh": "青少年味知觉与焦虑水平的关系和脑机制研究 — 上海市科学技术委员会“科技创新行动计划”自然科学基金项目，20ZR1472800；2020 年 7 月–2023 年 6 月；参与。"
+      },
+      "role": {
+        "en": "Project Team Member",
+        "zh": "参与"
+      }
+    },
+    {
+      "status": "completed",
+      "title": {
+        "en": "Language impairment in older adults with Alzheimer’s disease based on a multimodal corpus",
+        "zh": "基于多模态语料库的阿尔茨海默症老年人语用能力蚀失研究"
+      },
+      "description": {
+        "en": "Language impairment in older adults with Alzheimer’s disease based on a multimodal corpus — National Office for Philosophy and Social Sciences, National Social Science Fund for Young Scholars, Grant 19CYY018; Aug 2019–Dec 2023; Project Team Member.",
+        "zh": "基于多模态语料库的阿尔茨海默症老年人语用能力蚀失研究 — 国家社会科学基金青年项目，19CYY018；2019 年 8 月–2023 年 12 月；参与。"
+      },
+      "role": {
+        "en": "Project Team Member",
+        "zh": "参与"
+      }
+    }
+  ],
+  "patents": [
+    {
+      "year": 2021,
+      "number": "CN110201287B",
+      "title": {
+        "en": "A postoperative awakening method and device for patients under general anesthesia",
+        "zh": "一种全身麻醉患者术后唤醒方法及装置"
+      }
+    },
+    {
+      "year": 2022,
+      "number": "CN111081229B",
+      "title": {
+        "en": "Speech-based scoring method and related devices",
+        "zh": "基于语音的评分方法及相关装置"
+      }
+    },
+    {
+      "year": 2022,
+      "number": "CN110495854B",
+      "title": {
+        "en": "Feature extraction methods, devices, electronic devices, and storage media",
+        "zh": "特征提取方法、装置、电子设备及存储介质"
+      }
+    },
+    {
+      "year": 2022,
+      "number": "CN113947577B",
+      "title": {
+        "en": "Method, system, device, processor, and storage medium for normalizing brain-imaging features based on a healthy population distribution",
+        "zh": "基于健康人群分布实现脑影像特征归一化处理的方法、系统、装置、处理器及其存储介质"
+      }
+    },
+    {
+      "year": 2022,
+      "number": "CN113947580B",
+      "title": {
+        "en": "System for neuroimaging-assisted diagnosis and processing of mental disorders",
+        "zh": "针对精神疾病实现神经影像辅助诊断处理的系统"
+      }
+    },
+    {
+      "year": 2023,
+      "number": "CN110390624B",
+      "title": {
+        "en": "Graphic evaluation method, device, equipment, and storage medium",
+        "zh": "一种图形评估方法、装置、设备及存储介质"
+      }
+    },
+    {
+      "year": 2024,
+      "number": "CN113948180B",
+      "title": {
+        "en": "Method, device, processor, and computer-readable storage medium for generating and processing mental-disorder imaging reports",
+        "zh": "生成及处理精神疾病影像报告的方法、装置、处理器及计算机可读存储介质"
+      }
+    }
+  ]
+}
