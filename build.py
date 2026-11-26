@@ -13,6 +13,13 @@ def wave(n):
     return '<svg viewBox="0 0 220 100" fill="none" stroke="currentColor" stroke-width="1.2" aria-hidden="true">'+''.join(lines)+'</svg>'
 CURRENT=[('独立培养','Primary supervision',[('袁艺轩',''),('张艺菲','')]),('与清华大学张丹老师联合指导','Co-supervised with Dan Zhang · Tsinghua University',[('欧柔妮',''),('储娜',''),('张昕怡',''),('梁越铭','')]),('与上海交通大学吴梦玥老师联合指导','Co-supervised with Mengyue Wu · Shanghai Jiao Tong University',[('梅嘉豪',''),('金乐源',''),('李师萌','')])]
 ALUMNI=[('独立培养','Primary supervision',[('丁佳欣',('悉尼大学','The University of Sydney'))]),('与首都医科大学杨志老师联合指导','Co-supervised with Zhi Yang · Capital Medical University',[('刘静静',('上海市精神卫生中心','Shanghai Mental Health Center')),('谢舒淇',('慕尼黑工业大学','Technical University of Munich')),('金书玉',('厦门仙岳医院','Xiamen Xianyue Hospital'))]),('与清华大学张丹老师联合指导','Co-supervised with Dan Zhang · Tsinghua University',[('孙博',('清华大学','Tsinghua University')),('刘嘉萌',('香港理工大学','The Hong Kong Polytechnic University')),('付雯雯',('华西医院','West China Hospital'))])]
+STUDENT_NAMES_EN={
+    '袁艺轩':'Yixuan Yuan', '张艺菲':'Yifei Zhang',
+    '欧柔妮':'Rouni Ou', '储娜':'Na Chu', '张昕怡':'Xinyi Zhang', '梁越铭':'Yueming Liang',
+    '梅嘉豪':'Jiahao Mei', '金乐源':'Leyuan Jin', '李师萌':'Shimeng Li',
+    '丁佳欣':'Jiaxin Ding', '刘静静':'Jingjing Liu', '谢舒淇':'Shuqi Xie', '金书玉':'Shuyu Jin',
+    '孙博':'Bo Sun', '刘嘉萌':'Jiameng Liu', '付雯雯':'Wenwen Fu',
+}
 SELECTED={3,4,9,14,18,21,24,25,28}
 for lang in ['en','zh']:
     zh=lang=='zh'
@@ -33,7 +40,7 @@ for lang in ['en','zh']:
     def members(groups):
         out=[]
         for cn,en,people in groups:
-            names=''.join(f'<li><span class="student-name" lang="zh-CN">{name}</span>'+ (f'<span class="destination"><span aria-hidden="true">↗ </span>{esc(dest[0 if zh else 1])}</span>' if dest else '')+'</li>' for name,dest in people)
+            names=''.join(f'<li><span class="student-name" lang="{t('en','zh-CN')}">{esc(name if zh else STUDENT_NAMES_EN[name])}</span>'+ (f'<span class="destination"><span aria-hidden="true">↗ </span>{esc(dest[0 if zh else 1])}</span>' if dest else '')+'</li>' for name,dest in people)
             out.append(f'<div class="supervision"><h4>{esc(t(en,cn))}</h4><ul>{names}</ul></div>')
         return ''.join(out)
     def timeline(key): return ''.join(f'<li><span class="timeline-date">{esc(x["years"].replace("Present","至今").replace("Current","现任") if zh else x["years"])}</span><p>{esc(x[lang])}</p></li>' for x in D[key])
