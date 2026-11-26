@@ -9,5 +9,7 @@ Architecture: buildless HTML/CSS/JavaScript, generated from profile.json by buil
 - [x] Use source CV facts, independently verified publication status updates, an authentic supplied portrait and public professional email.
 - [x] Exclude mobile number, date of birth and original private documents from publication.
 - [x] Check HTML links, JavaScript syntax, search and filters, language switching and missing assets.
-- [ ] Visual browser QA: browser connection timed out; responsive CSS inspected but not visually verified.
-- [ ] Initialize a standalone public website repository, push to FreyaTing/FreyaTing.github.io, enable GitHub Pages and verify live URL.
+- [x] Browser QA: desktop rendering, publication filters/search and language switching verified on 26 November 2026.
+- [x] Initialize a standalone public website repository, push to FreyaTing/FreyaTing.github.io, enable GitHub Pages and verify live URL.
+
+Revision 2026-11-26: synchronized the December CV; validated 31 publication records, 4 current/awarded grants, 8 patents, 6 services, and the unchanged 16-person roster.

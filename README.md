@@ -31,7 +31,7 @@ The intended repository is `FreyaTing/FreyaTing.github.io`. In **Settings → Pa
 
 ## Content sources
 
-The supplied 2026 biography and August 2026 CV are the basis for the public profile. The portrait comes from the supplied 2025 biography. Student groupings and alumni destinations were supplied directly by the site owner on 24 November 2026. Original documents, personal telephone numbers and birth dates are not included.
+The supplied 2026 biography and revised `CV_Yue_Ding_Updated_Dec_2026.docx` are the basis for the public profile, updated on 26 November 2026. The portrait comes from the supplied 2025 biography. Student groupings and alumni destinations were supplied directly by the site owner on 24 November 2026. Original documents, personal telephone numbers and birth dates are not included.
 
 Selected records were reconciled against primary sources on 24 November 2026:
 
@@ -40,4 +40,8 @@ Selected records were reconciled against primary sources on 24 November 2026:
 - [Schizophrenia subtyping, General Psychiatry](https://doi.org/10.1002/gps3.70047)
 - [LARA-Gen v3, arXiv](https://arxiv.org/abs/2510.05875v3)
 
-Google Scholar is linked, but direct access was unavailable during preparation. Citation metrics are therefore not displayed. The two 2026 bioRxiv/medRxiv records retain the preprint status documented in the CV. Education dates follow the supplied updated CV.
+Google Scholar is linked, but direct access was unavailable during preparation. Citation metrics are therefore not displayed. The live-concert paper is marked in press at National Psychological Sciences; its linked DOI is explicitly the preprint version. LARA-Gen retains the previously verified arXiv v3 author list, which is more recent than the seven-author listing retained in the revised CV. The grant beginning January 2027 is shown as awarded with its future start date. Education dates follow the supplied updated CV.
+
+## November 26 content revision
+
+31 publication records: 27 published journal articles, 1 in-press article, 1 conference paper and 2 preprints. Added two journal papers, NSFC grant 82672004 and authorized patent CN117138236B; synchronized six academic service entries with the revised CV. The existing student roster is retained.

@@ -60,8 +60,8 @@
     },
     {
       "years": "2013–2014",
-      "en": "Visiting Scholar, Department of Biomedical Engineering, Johns Hopkins University",
-      "zh": "约翰霍普金斯大学生物医学工程系 · 访问学者"
+      "en": "Visiting Scholar in Neuroscience, Department of Biomedical Engineering, Johns Hopkins University",
+      "zh": "约翰霍普金斯大学生物医学工程系 · 神经科学访问学者"
     },
     {
       "years": "2006–2010",
@@ -77,35 +77,30 @@
     },
     {
       "years": "2018–2020",
-      "en": "Research Supervisor, Brain Science Group, AI Institute, iFLYTEK",
-      "zh": "科大讯飞人工智能研究院脑科学组 · 研究主管"
+      "en": "Research Supervisor, Brain Science Group, AI Institute, iFLYTEK Co., Ltd.",
+      "zh": "科大讯飞有限公司人工智能研究院脑科学组 · 研究主管"
     },
     {
       "years": "2016–2018",
-      "en": "Neuroscientist, Greater China, Neuromarketing Group, Nielsen",
-      "zh": "尼尔森消费者神经科学部 · 大中华区神经科学家"
+      "en": "Neuroscientist, Greater China, Neuromarketing Group, Nielsen Consumer LLC",
+      "zh": "尼尔森市场研究有限公司消费者神经科学部 · 大中华区神经科学家"
     }
   ],
   "service": [
     {
-      "years": "2026–Present",
-      "en": "Applied Psychology Industry Expert, Department of Psychology, Tsinghua University",
+      "years": "Current",
+      "en": "Industry Expert in Applied Psychology, Department of Psychology, Tsinghua University",
       "zh": "清华大学心理学系 · 应用心理学行业专家"
     },
     {
       "years": "2025–Present",
-      "en": "Associate Editor / Editorial Board Member, IEEE Transactions on Affective Computing",
+      "en": "Associate Editor, IEEE Transactions on Affective Computing",
       "zh": "IEEE Transactions on Affective Computing · 编委（Associate Editor）"
     },
     {
       "years": "2025–Present",
-      "en": "Qingbaihui Young Expert, Brain–Computer Interface Industry Alliance",
-      "zh": "脑机接口产业联盟 · 青百荟青年专家"
-    },
-    {
-      "years": "2024–Present",
-      "en": "Editorial Board Member, Scientific Reports",
-      "zh": "Scientific Reports · 编委"
+      "en": "Qingbaihui Young Expert, Brain–Computer Interface Industry Alliance (BCIA)",
+      "zh": "脑机接口产业联盟（BCIA） · 青百荟青年专家"
     },
     {
       "years": "2024–Present",
@@ -114,18 +109,13 @@
     },
     {
       "years": "2023–Present",
-      "en": "Standing Committee Member, Art Psychotherapy Committee, China Medical and Health Development Foundation",
+      "en": "Standing Committee Member, Expert Committee on Art Psychotherapy, China Medical and Health Development Foundation",
       "zh": "中国医药卫生事业发展基金会艺术心理治疗专家委员会 · 常务委员"
     },
     {
       "years": "2023–Present",
       "en": "Youth Committee Member, Psychological and Mental Health Education Committee, China Medicine Education Association",
       "zh": "中国医药教育协会心理与精神健康教育委员会 · 青年委员"
-    },
-    {
-      "years": "2022–Present",
-      "en": "Review Editor, Frontiers in Psychiatry",
-      "zh": "Frontiers in Psychiatry · 评审编辑"
     }
   ],
   "teaching": [
@@ -139,6 +129,50 @@
     }
   ],
   "publications": [
+    {
+      "id": 24,
+      "status": "published",
+      "authors": "Lei Guo#, Yue Ding#, Tianzhen Chen#, Jiajun Xu#, Hang Su#, Shiyan Qu, Ruitong Yan, Hong Gan, Xiandong Lin, Wei Shao, Dan Luo, Yingying Tang, Valerie Voon, Gang Wang*, Haifeng Jiang*, Min Zhao*",
+      "title": "Closed-loop transcranial alternating current stimulation (tACS) reduces cue reactivity and improves inhibitory control in methamphetamine use disorder with frequency and timing specificity",
+      "year": 2026,
+      "venue": "Molecular Psychiatry (2026), published online 1 September 2026",
+      "doi": "10.1038/s41380-026-03846-3",
+      "url": "https://doi.org/10.1038/s41380-026-03846-3",
+      "citation": "Lei Guo#, Yue Ding#, Tianzhen Chen#, Jiajun Xu#, Hang Su#, Shiyan Qu, Ruitong Yan, Hong Gan, Xiandong Lin, Wei Shao, Dan Luo, Yingying Tang, Valerie Voon, Gang Wang*, Haifeng Jiang*, Min Zhao*. Closed-loop transcranial alternating current stimulation (tACS) reduces cue reactivity and improves inhibitory control in methamphetamine use disorder with frequency and timing specificity. Molecular Psychiatry (2026), published online 1 September 2026. DOI: 10.1038/s41380-026-03846-3."
+    },
+    {
+      "id": 25,
+      "status": "published",
+      "authors": "Yue Ding#, Xingxing Li#, Junlin Liu#, Guolin Jin#, Weiwen Tian, Ti-Fei Yuan*, Wei Wu*, Dong-Sheng Zhou*",
+      "title": "Neurophysiological subtyping of schizophrenia reveals a reproducible phenotype with temporoparietal circuit disruptions",
+      "year": 2026,
+      "venue": "General Psychiatry 39(5) (2026): e70047",
+      "doi": "10.1002/gps3.70047",
+      "url": "https://doi.org/10.1002/gps3.70047",
+      "citation": "Yue Ding#, Xingxing Li#, Junlin Liu#, Guolin Jin#, Weiwen Tian, Ti-Fei Yuan*, Wei Wu*, Dong-Sheng Zhou*. Neurophysiological subtyping of schizophrenia reveals a reproducible phenotype with temporoparietal circuit disruptions. General Psychiatry 39(5) (2026): e70047. DOI: 10.1002/gps3.70047."
+    },
+    {
+      "id": 30,
+      "status": "published",
+      "authors": "Bing Chen, Jiale Cheng, Yuqian Zhai, Jingyang Liang, Xiying Cai, Hanyu Shao, Zhishan Hu, Xiaochen Zhang, Yue Ding, Zhi Yang*",
+      "title": "Adaptive Difficulty and Cognitive Gains in Multi-Domain Cognitive Training: A Randomized Active-Controlled Study",
+      "year": 2026,
+      "venue": "Behavioral Sciences 16(11) (2026): 2105",
+      "doi": "10.3390/bs16112105",
+      "url": "https://doi.org/10.3390/bs16112105",
+      "citation": "Bing Chen, Jiale Cheng, Yuqian Zhai, Jingyang Liang, Xiying Cai, Hanyu Shao, Zhishan Hu, Xiaochen Zhang, Yue Ding, Zhi Yang*. Adaptive Difficulty and Cognitive Gains in Multi-Domain Cognitive Training: A Randomized Active-Controlled Study. Behavioral Sciences 16(11) (2026): 2105. DOI: 10.3390/bs16112105."
+    },
+    {
+      "id": 31,
+      "status": "published",
+      "authors": "Letao Sun#, Yuxuan Liang#, Wei Li, Huiru Cui*, Hanxin Zhang*, Hongyan Wang, Xiaochen Zhang, Yue Ding, Jiaoyan Pang, Hongwei Ding, Chunbo Li, Hui Li",
+      "title": "From Symptoms to Cardiac Perception: Interpretive Bias in Heartbeat Perception Among Generalized Anxiety Disorder",
+      "year": 2026,
+      "venue": "Journal of Experimental Psychopathology 17(4) (2026): 20438087261497479",
+      "doi": "10.1177/20438087261497479",
+      "url": "https://doi.org/10.1177/20438087261497479",
+      "citation": "Letao Sun#, Yuxuan Liang#, Wei Li, Huiru Cui*, Hanxin Zhang*, Hongyan Wang, Xiaochen Zhang, Yue Ding, Jiaoyan Pang, Hongwei Ding, Chunbo Li, Hui Li. From Symptoms to Cardiac Perception: Interpretive Bias in Heartbeat Perception Among Generalized Anxiety Disorder. Journal of Experimental Psychopathology 17(4) (2026): 20438087261497479. DOI: 10.1177/20438087261497479."
+    },
     {
       "id": 1,
       "status": "published",
@@ -393,26 +427,16 @@
       "citation": "Yue Ding, Kathleen Gray, Alexander Forrence, Xiaoqin Wang*, Juan Huang*. A behavioral study on tonal working memory in musicians and non-musicians. PLOS ONE 13(8) (2018): e0201765."
     },
     {
-      "id": 24,
-      "status": "published",
-      "authors": "Lei Guo#, Yue Ding#, Tianzhen Chen#, Jiajun Xu#, Hang Su#, Shiyan Qu, Ruitong Yan, Hong Gan, Xiandong Lin, Wei Shao, Dan Luo, Yingying Tang, Valerie Voon, Gang Wang*, Haifeng Jiang*, Min Zhao*",
-      "title": "Closed-loop transcranial alternating current stimulation (tACS) reduces cue reactivity and improves inhibitory control in methamphetamine use disorder with frequency and timing specificity",
+      "id": 28,
+      "status": "in_press",
+      "authors": "Yue Ding#*, Jiameng Liu#, Yifan Xu#, Li Ji, Yubo Gao, Zheng Liang, Yingying Tang, Juan Huang, Xiaoqin Wang, Dan Zhang*",
+      "title": "The live concert of brains: performer-audience neural coupling links ensemble coordination to shared audience integration",
       "year": 2026,
-      "venue": "Molecular Psychiatry (2026), published online 1 September 2026",
-      "doi": "10.1038/s41380-026-03846-3",
-      "url": "https://doi.org/10.1038/s41380-026-03846-3",
-      "citation": "Lei Guo#, Yue Ding#, Tianzhen Chen#, Jiajun Xu#, Hang Su#, Shiyan Qu, Ruitong Yan, Hong Gan, Xiandong Lin, Wei Shao, Dan Luo, Yingying Tang, Valerie Voon, Gang Wang*, Haifeng Jiang*, Min Zhao*. Closed-loop transcranial alternating current stimulation (tACS) reduces cue reactivity and improves inhibitory control in methamphetamine use disorder with frequency and timing specificity. Molecular Psychiatry (2026), published online 1 September 2026. DOI: 10.1038/s41380-026-03846-3."
-    },
-    {
-      "id": 25,
-      "status": "published",
-      "authors": "Yue Ding#, Xingxing Li#, Junlin Liu#, Guolin Jin#, Weiwen Tian, Tifei Yuan*, Wei Wu*, Dongsheng Zhou*",
-      "title": "Neurophysiological subtyping of schizophrenia reveals a reproducible phenotype with temporoparietal circuit disruptions",
-      "year": 2026,
-      "venue": "General Psychiatry 39(5) (2026): e70047",
-      "doi": "10.1002/gps3.70047",
-      "url": "https://doi.org/10.1002/gps3.70047",
-      "citation": "Yue Ding#, Xingxing Li#, Junlin Liu#, Guolin Jin#, Weiwen Tian, Tifei Yuan*, Wei Wu*, Dongsheng Zhou*. Neurophysiological subtyping of schizophrenia reveals a reproducible phenotype with temporoparietal circuit disruptions. General Psychiatry 39(5) (2026): e70047. DOI: 10.1002/gps3.70047."
+      "venue": "National Psychological Sciences, in press",
+      "doi": "10.64898/2026.07.21.739936",
+      "url": "https://doi.org/10.64898/2026.07.21.739936",
+      "citation": "Yue Ding#*, Jiameng Liu#, Yifan Xu#, Li Ji, Yubo Gao, Zheng Liang, Yingying Tang, Juan Huang, Xiaoqin Wang, Dan Zhang*. The live concert of brains: performer-audience neural coupling links ensemble coordination to shared audience integration. National Psychological Sciences, in press. Preprint DOI: 10.64898/2026.07.21.739936.",
+      "doi_type": "preprint"
     },
     {
       "id": 26,
@@ -437,17 +461,6 @@
       "citation": "Yue Ding#*, Wenwen Fu#, Yingying Tang, Dan Zhang*. State-personalized mood-matched-to-shifted versus direct-uplifting music for occupational stress, anxiety, and depressive symptoms: a web-based randomized trial. medRxiv (2026). DOI: 10.64898/2026.08.05.26359641."
     },
     {
-      "id": 28,
-      "status": "preprint",
-      "authors": "Yue Ding#*, Jiameng Liu#, Yifan Xu#, Li Ji, Yubo Gao, Zheng Liang, Yingying Tang, Juan Huang, Xiaoqin Wang, Dan Zhang*",
-      "title": "The live concert of brains: performer-audience neural coupling links ensemble coordination to shared audience integration",
-      "year": 2026,
-      "venue": "bioRxiv (2026)",
-      "doi": "10.64898/2026.07.21.739936",
-      "url": "https://doi.org/10.64898/2026.07.21.739936",
-      "citation": "Yue Ding#*, Jiameng Liu#, Yifan Xu#, Li Ji, Yubo Gao, Zheng Liang, Yingying Tang, Juan Huang, Xiaoqin Wang, Dan Zhang*. The live concert of brains: performer-audience neural coupling links ensemble coordination to shared audience integration. bioRxiv (2026). DOI: 10.64898/2026.07.21.739936."
-    },
-    {
       "id": 29,
       "status": "preprint",
       "authors": "Jiahao Mei#, Shimeng Li#, Xuenan Xu, Leyuan Jin, Yixuan Yuan, Zeyu Xie, Zihao Zheng, Ye Tao, Yue Ding*, Mengyue Wu*",
@@ -461,13 +474,28 @@
   ],
   "grants": [
     {
+      "status": "awarded",
+      "title": {
+        "en": "Anticipatory anhedonia in disease-course transitions in adolescents with emotional disorders: mechanisms and closed-loop modulation",
+        "zh": "青少年情绪障碍病程转化中预期性快感缺失的作用机制及闭环调控研究"
+      },
+      "role": {
+        "en": "Principal Investigator",
+        "zh": "主持"
+      },
+      "description": {
+        "en": "Anticipatory anhedonia in disease-course transitions in adolescents with emotional disorders: mechanisms and closed-loop modulation — National Natural Science Foundation of China, General Program, Grant 82672004; Jan 2027–Dec 2030; Principal Investigator.",
+        "zh": "青少年情绪障碍病程转化中预期性快感缺失的作用机制及闭环调控研究 — 国家自然科学基金面上项目，82672004；2027 年 1 月–2030 年 12 月；主持。"
+      }
+    },
+    {
       "status": "ongoing",
       "title": {
         "en": "Key technologies for closed-loop music intervention as an adjunctive treatment for affective disorders",
         "zh": "情感障碍辅助治疗的闭环音乐干预关键技术"
       },
       "description": {
-        "en": "Key technologies for closed-loop music intervention as an adjunctive treatment for affective disorders — Shanghai Municipal Health Commission, Program for Research and Translation of New Medical Technologies, Grant 2024ZZ2066; Jan 2025–Dec 2027; Principal Investigator.",
+        "en": "Key technologies for closed-loop music intervention as an adjunctive treatment for affective disorders — Shanghai Municipal Health Commission, Translational Seed Program, Grant 2024ZZ2066; Jan 2025–Dec 2027; Principal Investigator.",
         "zh": "情感障碍辅助治疗的闭环音乐干预关键技术 — 上海市卫生健康委员会，转化种子项目，2024ZZ2066；2025 年 1 月–2027 年 12 月；主持。"
       },
       "role": {
@@ -493,11 +521,11 @@
     {
       "status": "ongoing",
       "title": {
-        "en": "Characteristics and mechanisms of neuronal oscillations in depression",
+        "en": "Characteristics and mechanisms of neural oscillations in depression",
         "zh": "抑郁症的神经振荡特征及作用机制研究"
       },
       "description": {
-        "en": "Characteristics and mechanisms of neuronal oscillations in depression — National Natural Science Foundation of China, Major Research Plan, Grant T2394535; Jan 2024–Dec 2028; Project Team Member.",
+        "en": "Characteristics and mechanisms of neural oscillations in depression — National Natural Science Foundation of China, Major Research Plan, Grant T2394535; Jan 2024–Dec 2028; Project Team Member.",
         "zh": "抑郁症的神经振荡特征及作用机制研究 — 国家自然科学基金委员会重大研究计划，T2394535；2024 年 1 月–2028 年 12 月；参与。"
       },
       "role": {
@@ -651,6 +679,14 @@
       "title": {
         "en": "Method, device, processor, and computer-readable storage medium for generating and processing mental-disorder imaging reports",
         "zh": "生成及处理精神疾病影像报告的方法、装置、处理器及计算机可读存储介质"
+      }
+    },
+    {
+      "year": 2026,
+      "number": "CN117138236B",
+      "title": {
+        "en": "Closed-loop control system for multiple disorders with real-time adjustment of electrical stimulation protocols based on neural biomarkers",
+        "zh": "基于神经标志物实时调整电刺激方案的多病种兼容性闭环调控系统"
       }
     }
   ]
